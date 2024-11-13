@@ -1,0 +1,24 @@
+body {
+    font-family: arial;
+}
+h1,h2 {
+    color: rgb(255, 0, 0);
+}
+ul li a {
+    color: rgb(255, 251, 0);
+}
+ol li a {
+    color: rgb(187, 0, 255);
+}
+#p1 {
+    color: aqua;
+}
+.p2 {
+    color: rgb(255, 102, 0);
+}
+.cetak {
+    font-weight: bold;
+}
+p.cetak {
+    font-size: 30px;
+}
